@@ -1,0 +1,2 @@
+def stuff():
+    return "stuff"
